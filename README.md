@@ -1,7 +1,8 @@
 # redux-store
 
 - Github URL: https://github.com/DanielCConlon/redux-store
-- Heroku URL: https://glacial-tundra-57936.herokuapp.com/
+- Heroku URL: updating heroku deployment
+<!-- https://glacial-tundra-57936.herokuapp.com/ -->
 
 # Goal
 
